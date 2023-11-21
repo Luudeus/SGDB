@@ -8,63 +8,62 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace WindowsFormsApp1;
+
+public partial class Form1 : Form
 {
-    public partial class Form1 : Form
+    public Form1()
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
+    }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
+    private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
+    private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
+    private void label1_Click(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label7_Click(object sender, EventArgs e)
-        {
+    private void label7_Click(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label12_Click(object sender, EventArgs e)
-        {
+    private void label12_Click(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
-        {
+    private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
+    private void button1_Click(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
-        {
+    private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
+    private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label11_Click(object sender, EventArgs e)
-        {
+    private void label11_Click(object sender, EventArgs e)
+    {
 
-        }
     }
 }
